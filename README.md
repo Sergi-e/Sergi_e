@@ -1,6 +1,6 @@
 #Hello. I am Serge Ishimwe, a student at Ashesi University.
 
-## Software Developer | Tech for Environmental Impact
+## Full-Stack Developer | Yet-to-become an AI Engineer | Tech for Environmental Impact
 
 <p align="center">
 <a href="ishserge16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
